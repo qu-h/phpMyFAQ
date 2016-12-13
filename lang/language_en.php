@@ -614,7 +614,7 @@ $PMF_LANG['ad_changerev'] = 'Select Revision';
 $PMF_LANG['msgCaptcha'] = "Please enter the captcha code";
 $PMF_LANG['msgSelectCategories'] = 'Search in ...';
 $PMF_LANG['msgAllCategories'] = '... all categories';
-$PMF_LANG['ad_you_should_update'] = 'Your phpMyFAQ installation is outdated. You should update to the latest available version.';
+$PMF_LANG['ad_you_should_update'] = 'Your PMS FAQ installation is outdated. You should update to the latest available version.';
 $PMF_LANG['msgAdvancedSearch'] = 'Advanced search';
 
 // added v1.6.1 - 2006-04-25 by Matteoï and Thorsten
@@ -866,7 +866,7 @@ $LANG_CONF['records.defaultAllowComments'] = array(0 => "checkbox", 1 => "Allow 
 // added v2.0.0 - 2007-04-04 by Thorsten
 $PMF_LANG['msgAllCatArticles'] = 'Records in this category';
 $PMF_LANG['msgTagSearch'] = 'Tagged entries';
-$PMF_LANG['ad_pmf_info'] = 'phpMyFAQ Information';
+$PMF_LANG['ad_pmf_info'] = 'PMS FAQ Information';
 $PMF_LANG['ad_online_info'] = 'Online version check';
 $PMF_LANG['ad_system_info'] = 'System Information';
 

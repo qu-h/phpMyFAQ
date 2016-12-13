@@ -13,7 +13,7 @@
                     <div class="login-panel panel panel-default">
                         <div class="panel-heading">
                             <header>
-                                <h3 class="panel-title text-center">phpMyFAQ Login</h3>
+                                <h3 class="panel-title text-center">FAQ Login</h3>
                             </header>
                         </div>
                         <div class="panel-body">

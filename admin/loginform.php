@@ -24,7 +24,7 @@
                 <div class="login-panel panel panel-default">
                     <div class="panel-heading">
                         <header>
-                            <h3 class="panel-title">phpMyFAQ Login</h3>
+                            <h3 class="panel-title">PMS FAQ Login</h3>
                         </header>
                     </div>
                     <div class="panel-body">

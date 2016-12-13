@@ -222,7 +222,7 @@ switch ($action) {
             </button>
             <?php endif; ?>
             <a class="navbar-brand" title="<?php echo $faqConfig->get('main.titleFAQ') ?>" href="../index.php">
-                phpMyFAQ <?php echo $faqConfig->get('main.currentVersion') ?>
+                PMS FAQ
             </a>
         </div>
 

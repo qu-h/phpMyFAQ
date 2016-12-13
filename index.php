@@ -511,8 +511,7 @@ $tplMainPage = array(
     'writeLangAdress' => $writeLangAdress,
     'switchLanguages' => PMF_Language::selectLanguages($LANGCODE, true),
     'userOnline' => $usersOnline,
-    'copyright' => 'powered by <a href="http://www.phpmyfaq.de" target="_blank">phpMyFAQ</a> '.
-                              $faqConfig->get('main.currentVersion'),
+    'copyright' => 'powered by <a href="#" target="_blank">A2000 Project</a> ',
     'registerUser' => $faqConfig->get('security.enableRegistration') ? '<a href="?action=register">'.$PMF_LANG['msgRegistration'].'</a>' : '',
     'sendPassword' => '<a href="?action=password">'.$PMF_LANG['lostPassword'].'</a>',
     'msgFullName' => $PMF_LANG['ad_user_loggedin'].$user->getLogin(),

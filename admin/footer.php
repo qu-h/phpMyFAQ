@@ -8,7 +8,7 @@
  * v. 2.0. If a copy of the MPL was not distributed with this file, You can
  * obtain one at http://mozilla.org/MPL/2.0/.
  *
- * @category  phpMyFAQ 
+ * @category  phpMyFAQ
  *
  * @author    Thorsten Rinne <thorsten@phpmyfaq.de>
  * @author    Matteo Scaramuccia <matteo@phpmyfaq.de>
@@ -37,12 +37,8 @@ if (!defined('IS_VALID_PHPMYFAQ')) {
     <div class="row">
         <div class="col-lg-12">
             <p class="copyright text-right">
-                Proudly powered by <strong>phpMyFAQ <?php echo $faqConfig->get('main.currentVersion'); ?></strong> |
-                <a href="http://www.phpmyfaq.de/documentation" target="_blank">phpMyFAQ documentation</a> |
-                Follow us on <a href="http://twitter.com/phpMyFAQ"><i aria-hidden="true" class="fa fa-twitter"></i></a> |
-                <i aria-hidden="true" class="fa fa-apple"></i> Available on the
-                <a target="_blank" href="https://itunes.apple.com/en/app/phpmyfaq/id977896957">App Store</a> |
-                &copy; 2001-<?php echo date('Y') ?> <a href="http://www.phpmyfaq.de/" target="_blank">phpMyFAQ Team</a>
+
+                &copy; <?php echo date('Y') ?> <a href="#" target="_blank">A2000 Project</a>
             </p>
         </div>
     </div>
